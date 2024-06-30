@@ -1,4 +1,4 @@
-![MasterHead](https://cutshort.io/_next/image?url=https%3A%2F%2Fcutshort.io%2Fblog%2Fwp-content%2Fuploads%2F2018%2F04%2Fbd1e5c2457278a37313c55ce8c887aa3.jpg&w=1920&q=75)
+[MasterHead](https://cutshort.io/_next/image?url=https%3A%2F%2Fcutshort.io%2Fblog%2Fwp-content%2Fuploads%2F2018%2F04%2Fbd1e5c2457278a37313c55ce8c887aa3.jpg&w=1920&q=75)
 <h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
