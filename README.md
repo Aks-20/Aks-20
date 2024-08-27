@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">Passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=0e75b6&style=flat" alt="aks-20" /> </p>
 
