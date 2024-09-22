@@ -78,9 +78,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Aks-20/count.svg?"  />
+<div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: fit-content;">
+  <h2 style="color: #4CAF50; margin: 0;">Profile Visits</h2>
+  <img src="https://profile-counter.glitch.me/Aks-20/count.svg?" alt="Aks-20 Profile Visit Counter" style="margin-top: 10px;" />
 </div>
+
+
 
 ###
 
@@ -88,8 +91,25 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aks-20&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1&cachebuster=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Aks-20&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3&cachebuster=1" height="150" alt="streak graph"  />
+
+  <!-- Top Languages Card -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aks-20&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="margin-bottom: 20px;" />
+  </p>
+
+  <!-- GitHub Stats Card -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Aks-20&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
+  </p>
+
+  <!-- GitHub Streak Stats -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aks-20&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </p>
+
 </div>
+
+
+
 
 
