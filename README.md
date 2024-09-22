@@ -1,8 +1,27 @@
 <h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
+<p align="center">Passionate FullStack developer from India</p>
+<div align="center" style="padding: 20px; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 80%; max-width: 800px; margin: auto;">
+
+  <h2 style="color: #4CAF50; margin-bottom: 20px;">Welcome to My Profile</h2>
+<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/06/28/15/53/1000_F_628155363_0NuasqXHZkjC13IFuTsrDHCFPeJo6aQr.jpg" />
+
+
+
+<div align="left" style="margin-bottom: 20px; border: 3px solid #FF5733; border-radius: 10px; padding: 15px; background-color: #ffffff; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+  <img src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=FF5733&style=for-the-badge" alt="Profile views" style="border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+</div>
+
+
+
+ 
+  </p>
+
+</div>
+
 
 ###
 
-<p align="left">Passionate FullStack developer from India</p>
+
 
 ###
 
