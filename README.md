@@ -4,6 +4,7 @@
 
   <h2 style="color: #4CAF50; margin-bottom: 20px;">Welcome to My Profile</h2>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/06/28/15/53/1000_F_628155363_0NuasqXHZkjC13IFuTsrDHCFPeJo6aQr.jpg" />
+<a href="https://wakatime.com/@018d36c1-341c-45d8-944e-95ce4b6bce0b"><img src="https://wakatime.com/badge/user/018d36c1-341c-45d8-944e-95ce4b6bce0b.svg" alt="Total time coded since Jan 23 2024" /></a>
 
 
 
