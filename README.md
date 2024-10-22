@@ -4,14 +4,14 @@
   <h2 style="color: #4CAF50; margin-bottom: 20px;">Welcome to My Profile</h2>
   
   <a href="https://wakatime.com/@018d36c1-341c-45d8-944e-95ce4b6bce0b"><img src="https://wakatime.com/badge/user/018d36c1-341c-45d8-944e-95ce4b6bce0b.svg" alt="Total time coded since Jan 23 2024" /></a>
-  <div align="left" style="margin-bottom: 20px; border: 3px solid #FF5733; border-radius: 10px; padding: 15px; background-color: #ffffff; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=FF5733&style=for-the-badge" alt="Profile views" style="border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <div align="center" style="margin-bottom: 20px; border: 3px solid #FF5733; border-radius: 10px; padding: 15px; background-color: #ffffff; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+    <img align="center" src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=FF5733&style=for-the-badge" alt="Profile views" style="border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </div>
 </div>
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
-<p align="left">🌱 I’m currently learning the MERN stack<br>🔭 I’m currently working on myself<br>💬 Ask me about Node. js, JavaScript, Java.<br>⚡ I love Chess and Coffee and Football</p>
+<p align="center">🌱 I’m currently learning the MERN stack<br>🔭 I’m currently working on myself<br>💬 Ask me about Node. js, JavaScript, Java.<br>⚡ I love Chess and Coffee and Football</p>
 
 <h2 align="left">Socials</h2>
 <div align="left">
