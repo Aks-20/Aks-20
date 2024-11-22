@@ -65,6 +65,11 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Aks-20&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
   </p>
+  <h2 align="left">GitHub Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aks-20&bg_color=1a1b27&color=63e6be&line=38c9dd&point=fc5185&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</div>
+
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aks-20&theme=radical&hide_border=true" alt="GitHub Streak" />
   </p>
