@@ -1,73 +1,110 @@
-<h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
-<p align="center">Passionate FullStack developer from India</p>
-<div align="center" style="padding: 20px; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 80%; max-width: 800px; margin: auto;">
-  <h2 style="color: #4CAF50; margin-bottom: 20px;">Welcome to My Profile</h2>
-  
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Akshat Gupta</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;JavaScript+Enthusiast;MERN+Stack+Explorer;Always%20Learning&center=true&width=500&height=50"></a>
+</p>
+
+<p align="center">
   <a href="https://wakatime.com/@018d36c1-341c-45d8-944e-95ce4b6bce0b"><img src="https://wakatime.com/badge/user/018d36c1-341c-45d8-944e-95ce4b6bce0b.svg" alt="Total time coded since Jan 23 2024" /></a>
-  <div align="center" style="margin-bottom: 20px; border: 3px solid #FF5733; border-radius: 10px; padding: 15px; background-color: #ffffff; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img align="center" src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=FF5733&style=for-the-badge" alt="Profile views" style="border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </div>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=aks-20&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
+</p>
 
-<h2 align="center">About me</h2>
+<br>
 
-<p align="center">🌱 I’m currently learning the MERN stack<br>🔭 I’m currently working on myself<br>💬 Ask me about Node. js, JavaScript, Java.<br>⚡ I love Chess and Coffee and Football</p>
+## 🚀 About Me
 
-<h2 align="left">Socials</h2>
-<div align="left">
-  <a href="mailto:akshatgupta0043@gmail.com?subject=feedback" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+- 🔭 I'm currently working on improving my skills and building meaningful projects
+- 🌱 I'm learning the **MERN** stack (MongoDB, Express.js, React, Node.js)
+- 💬 Ask me about **Node.js**, **JavaScript**, and **Java**
+- ⚡ I love **Chess**, **Coffee**, and **Football**
+- 🎯 Goal: Become a proficient Full Stack Developer
+- 📫 How to reach me: akshatgupta0043@gmail.com
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aks-20&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://x.com/AkshatGupta_567" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks-20&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://www.linkedin.com/in/akshat-gupta-41b394253/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akshat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aks-20&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
   </a>
-  <a href="https://stackoverflow.com/users/26954045/akshat-gupta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo" />
+</p>
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img alt="Akshat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aks-20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
+<br>
+
+## 📱 Connect with me
+
+<p align="center">
+  <a href="mailto:akshatgupta0043@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/akshat-gupta-41b394253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/AkshatGupta_567">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://stackoverflow.com/users/26954045/akshat-gupta">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</p>
 
-<h2 align="left">I code with</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="40" width="52" alt="fastapi logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="52" alt="postman logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" />
-</div>
+<br>
 
-<h2 align="left">Profile Visits</h2>
-<div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: fit-content;">
-  <h2 style="color: #4CAF50; margin: 0;">Profile Visits</h2>
-  <img src="https://profile-counter.glitch.me/Aks-20/count.svg?" alt="Aks-20 Profile Visit Counter" style="margin-top: 10px;" />
-</div>
+## 🏆 GitHub Trophies
 
-<h2 align="left">Stats</h2>
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aks-20&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="margin-bottom: 20px;" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Aks-20&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
-  </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aks-20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  </a>
+</p>
 
+---
 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aks-20&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Aks-20/count.svg?" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
