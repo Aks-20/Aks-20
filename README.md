@@ -61,15 +61,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akshat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aks-20&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aks-20&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Akshat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aks-20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
-</p>
+
 
 <br>
 
