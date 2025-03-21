@@ -52,12 +52,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aks-20&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks-20&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=Aks-20&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks-20&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aks-20&theme=radical" height="160" alt="Repos per Language" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aks-20&theme=radical" height="160" alt="Most Used Language" />  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aks-20&theme=radical" height="160" alt="Profile Details" />  
+
 </p>
 
 <p align="center">
