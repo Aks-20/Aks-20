@@ -61,11 +61,8 @@
 
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aks-20&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
-  </a>
-</p>
+
+
 
 
 <br>
