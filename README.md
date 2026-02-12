@@ -43,7 +43,7 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aks-20&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=Aks-20&layout=compact&theme=dracula&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aks-20a&show_icons=true&theme=radical&layout=compact&theme=dracula&hide_border=true" />
 
 </p>
 
